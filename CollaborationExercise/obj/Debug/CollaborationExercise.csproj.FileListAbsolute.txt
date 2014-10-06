@@ -1,1 +1,7 @@
 c:\users\rumyana\documents\visual studio 2013\Projects\CollaborationExercise\CollaborationExercise\bin\Debug\CollaborationExercise.exe.config
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\bin\Debug\CollaborationExercise.exe.config
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\obj\Debug\CollaborationExercise.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\bin\Debug\CollaborationExercise.exe
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\bin\Debug\CollaborationExercise.pdb
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\obj\Debug\CollaborationExercise.exe
+C:\Users\Bruno Damjanovic\Desktop\GitCollaboration\CollaborationExercise\obj\Debug\CollaborationExercise.pdb
